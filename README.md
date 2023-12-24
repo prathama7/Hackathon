@@ -10,7 +10,7 @@ Welcome to the Hackathon project repository! This project was developed during S
 - [Tasks](#tasks)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
@@ -37,7 +37,7 @@ Make sure you have the following dependencies installed:
 - Matplotlib
 - Seaborn
 
-## Contributing
+## Contribution
 
 If you would like to contribute to this project, please follow these guidelines:
 
